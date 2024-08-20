@@ -1,5 +1,8 @@
 # Better Comments
 
+## This is publish to Open VSX Version.
+---
+
 The Better Comments extension will help you create more human-friendly comments in your code.  
 With this extension, you will be able to categorise your annotations into:
 * Alerts
